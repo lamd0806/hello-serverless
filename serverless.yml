@@ -1,4 +1,4 @@
-service: hello-serverless
+service: hello-serverless-lamd0806-andrea
 
 provider:
   name: aws
